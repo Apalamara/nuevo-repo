@@ -1,0 +1,14 @@
+# Ignorar binarios compilados
+*.exe
+*.dll
+
+# Ignorar archivos temporales
+temp/
+*.tmp
+
+# Ignorar información confidencial
+config.ini
+secret.key
+
+# Ignorar mis archivos
+documento_a_ser_ignorado.txt
